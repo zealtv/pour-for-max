@@ -1,10 +1,12 @@
 # pour-for-max
 #### x-platform wrapper for syphon and spout
 
-*Pre reqs*
+**Pre reqs**
+
 Syphon and/or Spout max packages.  Download these from Max's inbuilt package manger. 
 
-*Usage*
+**Usage**
+
 Use pour.maxpat as an abstraction and pass it a GL context e.g [pour myContext].
 Internally, the object will check host OS and create a Syphon or Spout object as appropriate.
 
