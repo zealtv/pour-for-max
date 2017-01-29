@@ -1,5 +1,5 @@
 # pour-for-max
-#### x-platform wrapper for syphon and spout
+### x-platform wrapper for syphon and spout
 
 **Pre reqs**
 
